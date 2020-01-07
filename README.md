@@ -1,0 +1,3 @@
+This is an attempt at Odin Project's first HTML and CSS project. It consists of replicating Google's homepage. I'm honestly a bit lost as of the writing of this file (haven't done any coding yet) but hopefully I'll be proud of this once it's over. 
+
+So far, I have learned a great deal about HTML and CSS. I find it very interesting to learn the basics of web development. I'm far from my desired goal, but I know that if I keep at it I'll be there some day
