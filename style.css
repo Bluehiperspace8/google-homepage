@@ -3,23 +3,34 @@ body {
 }
 
 #logo {
-    margin-top: 135px;
-    margin-left: 350px;
+    margin-top: 155px;
+    margin-left: 400px;
+    position: absolute;
 }
 
 #searchbar {
-    margin-left: 350px;
-    margin-top: 30px;
-    padding: 0px 200px 0px 200px;
+    margin-left: 270px;
+    margin-top: 275px;
     font-size: 12px;
+    border-radius: 30px;
+    border: 1px solid #dfe1e5;
+    height: 40px;
+    width: 550px;
 }
 
-#header {
+#overallheader {
+    font-size: 13px;
+}
+
+#rightheader {
     float: right;
+    margin-top: 25px;
+    margin-right: 25px;
 }
 
-#header2 {
+#leftheader {
     float: left;
+    margin-top: 25px;
 }
 
 li {
@@ -28,8 +39,8 @@ li {
 }
 
 #searchbuttons {
-    margin-left: 510px;
-    margin-top: 30px;
+    margin-left: 490px;
+    margin-top: 35px;
 }
 
 .search {
@@ -39,9 +50,12 @@ li {
     border: 1px solid #f2f2f2;
     border-radius: 4px;
     font-size: 14px;
+    font-weight: lighter;
 }
 
 .login {
     background: #4285f4;
     color: white;
+    height: 30px;
+    font-weight: bold;
 }
