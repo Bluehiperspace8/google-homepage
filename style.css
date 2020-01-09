@@ -38,9 +38,26 @@ body {
     margin-top: 25px;
 }
 
+.header-item {
+    margin-left: 15px;
+}
+
+.footer-item  {
+    margin-left: 27px;
+    color: #5f6368;
+}
+
+a {
+    color: #5f6368;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 li {
     display: inline;
-    margin-left: 15px;
 }
 
 #searchbuttons {
@@ -79,8 +96,8 @@ li {
     width: 100%;
     font-size: 14px;
     background-color: #f2f2f2;
-    border-top: solid 1px #f2f2f2;
-    padding: 10px 0 20px 0;
+    border-top: solid 1px #e4e4e4;
+    padding: 13px 0 13px 0;
 }
 
 #leftfooter {
